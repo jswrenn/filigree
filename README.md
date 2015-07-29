@@ -55,5 +55,5 @@ Type|Item|Price
 **Memory** | [\*Patriot Signature 4GB (1 x 4GB) DDR3-1333 Memory](http://pcpartpicker.com/part/patriot-memory-psd34g133381) | $19.99 @ Amazon 
 **Storage** | [\*Toshiba  5TB 3.5" 7200RPM Internal Hard Drive](http://pcpartpicker.com/part/toshiba-internal-hard-drive-ph3500u1i72) | $139.99 @ Amazon 
 **Other**| Realan W-80 Silver Aluminium Mini-ITX Case| $79.99 
- | **Total** || **$300.99**
+ **Total** | | **$300.99**
 These parts are subject to change based on market prices or if Filigree members express a strong preference towards Intel over AMD. The cost of a 5Tb HDD (presently accounting for nearly 50% of Filament's total cost) is likely to decrease further.
