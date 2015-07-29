@@ -5,20 +5,20 @@ As with any cooperative, in which members pool their resources together for a re
 
 Filigree is a bitsharing cooperative for sharing storage that seeks to deliver the benefits of cloud data storage in a drastically more transparent and communal manner. For most people, cloud data storage is the only inexpensive way to secure personal files against the risks of data loss, but at the cost of sacrificing control over one's data. For most people, replicating the industry best-practices for data storage at home is prohibitively expensive. That is, until now.
 
-Members of filigree donate operative control of a small computing device (but retrain ownership and possession) that is used as node in a cluster running a distributed replicated filesystem. In return, they receive access to a fault-tolerant storage cluster (potentially many terabytes in size). In the spirit of a coop, this storage space is a shared pool.
+Members of filigree donate operative control of a small computing device (but retrain ownership and possession) that is used as node in a cluster running a distributed replicated filesystem. In return, they receive access to a fault-tolerant storage cluster (potentially many terabytes in size). In the spirit of a co-op, this storage space is a shared pool.
 
 ## Filament: The Filigree Appliance
-Filaments are the computing appliances that pool their resources into the Filigree network. In principal, it doesn't matter *what* a Filament is, so long as each user has a nearly identical device (and hence, contributes a fair share of resources to the pool). 
+Filaments are the computing appliances that pool their resources together into the Filigree network. In principal, it doesn't matter *what* a Filament is, so long as each user has a nearly identical device (and hence, contributes a fair share of resources to the pool). 
 
 ### Features
 #### 1. One-Touch Access
-Turning a filigree-compliant device into a filament is as easy as plugging in an [inexpensive, low-profile USB thumb drive](http://www.amazon.com/dp/B005FYNSZA/), that downloads Filament OS from the filigree network and boots to it. Filigree OS is kept entirely in-memory, making it ultra-fast and leaving a Filament's internal hard drive solely for storage.
+Turning a filigree-compliant device into a filament is as easy as plugging in an [inexpensive, low-profile USB thumb drive](http://www.amazon.com/dp/B005FYNSZA/), that downloads Filament OS from the filigree network and boots to it. Filament OS is kept entirely in-memory, making it ultra-fast and leaving a Filament's internal hard drive solely for storage.
 
 #### 2. A Fuckton of Storage
 Even with only four filaments attached, filigree members enjoy a shared pool of *twenty terabytes*. This is because each filament contributes five terabytes of storage.
 
 #### 3. A *Secure* Fuckton of Storage
-Files stored on the Filigree network are always stored on at least two filaments at any given time, ensuring that your files are always accessible. As more member join Filament, the number  of replicas made for each file can be increased. 
+Files stored on the Filigree network are always stored on at least two filaments at any given time, ensuring that your files are always accessible. As more members join filigree, the number of replicas made of each file can be increased. 
 
 #### 4. Your Files, Anywhere
 You can access the files you and your friends store on Filigree anywhere in the world. Filigree appears on your computer like any other folder (albeit, one with a *huge* capacity). Want to share a file with a friend who isn't in Filigree? Simple send them a shareable, temporary URL they can download the file from.
@@ -46,7 +46,7 @@ Thought Filigree was a good idea but then changed your mind? Duck out at any tim
 ### Hardware
 We've worked hard to make sure Filament is beautiful both inside and out while remaining inexpensive. Hardware-wise, Filament is very much a full computer. The Mini-ITX motherboard is capable of housing any processor matching its socket and memory may be upgraded with the same ease of any desktop computer. The Realan W-80 case that houses Filament is machined from aluminum and is the smallest case we could find on the market that could pack in a full 3.5" HDD, measuring a mere three inches tall.
 ![Realan W-80](http://i00.i.aliimg.com/photo/v2/505670078_5/htpc_computer_cabinet_W80_Welcome_OEM_no.jpg)
-Below is a tentative parts list reflecting a devices that is compliant with Filigree, optimized for price:
+Below is a tentative parts list reflecting a device that is compliant with Filigree, optimized for price:
 
 Type|Item|Price
 :----|:----|:----
