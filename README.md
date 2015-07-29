@@ -47,6 +47,7 @@ Thought Filigree was a good idea but then changed your mind? Duck out at any tim
 We've worked hard to make sure Filament is beautiful both inside and out while remaining inexpensive. Hardware-wise, Filament is very much a full computer. The Mini-ITX motherboard is capable of housing any processor matching its socket and memory may be upgraded with the same ease of any desktop computer. The Realan W-80 case that houses Filament is machined from aluminum and is the smallest case we could find on the market that could pack in a full 3.5" HDD, measuring a mere three inches tall.
 ![Realan W-80](http://i00.i.aliimg.com/photo/v2/505670078_5/htpc_computer_cabinet_W80_Welcome_OEM_no.jpg)
 Below is a tentative parts list reflecting a devices that is compliant with Filigree, optimized for price:
+
 Type|Item|Price
 :----|:----|:----
 **CPU** | [\*AMD 2650 1.45Ghz Dual-Core Processor](http://pcpartpicker.com/part/amd-cpu-sd2650jahmbox) | $24.98 @ NCIX US 
