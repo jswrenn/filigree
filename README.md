@@ -41,7 +41,7 @@ Distributed storage is something we're talking about right now simply because it
 Since each filament contributes a huge amount of storage to filigree, each new person who joins the network adds value for everybody.
 
 #### 9. A Well-Marked Exit
-Thought Filigree was a good idea but then changed your mind? Duck out at any time! At no point do you cede ownership or possession of your Filament. It's yours to keep. And, because any files that happen to be stored on your device are guaranteed to be stored elsewhere on the filigree network, you need not fear your friends loosing any of their files. As detailed in the Hardware section below, Filament is an incredibly capable device, even on its own. 
+Thought Filigree was a good idea but then changed your mind? Duck out at any time! At no point do you cede ownership or possession of your Filament. It's yours to keep. And, because any files that happen to be stored on your device are guaranteed to be stored elsewhere on the filigree network, you need not fear your friends losing any of their files. As detailed in the Hardware section below, Filament is an incredibly capable device, even on its own. 
 
 ### Hardware
 We've worked hard to make sure Filament is beautiful both inside and out while remaining inexpensive. Hardware-wise, Filament is very much a full computer. The Mini-ITX motherboard is capable of housing any processor matching its socket and memory may be upgraded with the same ease of any desktop computer. The Realan W-80 case that houses Filament is machined from aluminum and is the smallest case we could find on the market that could pack in a full 3.5" HDD, measuring a mere three inches tall.
